@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DEM2026ModelContainer" CdmEntityContainer="DEM2026Entities">
+    <EntitySetMapping Name="Заказы">
+      <EntityTypeMapping TypeName="DEM2026Model.Заказы">
+        <MappingFragment StoreEntitySet="Заказы">
+          <ScalarProperty Name="Номер_заказа" ColumnName="Номер заказа" />
+          <ScalarProperty Name="Дата_заказа" ColumnName="Дата заказа" />
+          <ScalarProperty Name="Дата_доставки" ColumnName="Дата доставки" />
+          <ScalarProperty Name="Адрес_пункта_выдачи" ColumnName="Адрес пункта выдачи" />
+          <ScalarProperty Name="ФИО_авторизированного_клиента" ColumnName="ФИО авторизированного клиента" />
+          <ScalarProperty Name="Код_пользователя" ColumnName="Код пользователя" />
+          <ScalarProperty Name="Код_для_получения" ColumnName="Код для получения" />
+          <ScalarProperty Name="Статус_заказа" ColumnName="Статус заказа" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пользователи">
+      <EntityTypeMapping TypeName="DEM2026Model.Пользователи">
+        <MappingFragment StoreEntitySet="Пользователи">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Роль_сотрудника" ColumnName="Роль сотрудника" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Логин" ColumnName="Логин" />
+          <ScalarProperty Name="Пароль" ColumnName="Пароль" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пункты_выдачи">
+      <EntityTypeMapping TypeName="DEM2026Model.Пункты_выдачи">
+        <MappingFragment StoreEntitySet="Пункты выдачи">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Список_заказа">
+      <EntityTypeMapping TypeName="DEM2026Model.Список_заказа">
+        <MappingFragment StoreEntitySet="Список_заказа">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Номер_заказа" ColumnName="Номер заказа" />
+          <ScalarProperty Name="Артикул" ColumnName="Артикул" />
+          <ScalarProperty Name="Количество" ColumnName="Количество" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Товары">
+      <EntityTypeMapping TypeName="DEM2026Model.Товары">
+        <MappingFragment StoreEntitySet="Товары">
+          <ScalarProperty Name="Артикул" ColumnName="Артикул" />
+          <ScalarProperty Name="Наименование_товара" ColumnName="Наименование товара" />
+          <ScalarProperty Name="Единица_измерения" ColumnName="Единица измерения" />
+          <ScalarProperty Name="Цена" ColumnName="Цена" />
+          <ScalarProperty Name="Поставщик" ColumnName="Поставщик" />
+          <ScalarProperty Name="Производитель" ColumnName="Производитель" />
+          <ScalarProperty Name="Категория_товара" ColumnName="Категория товара" />
+          <ScalarProperty Name="Действующая_скидка" ColumnName="Действующая скидка" />
+          <ScalarProperty Name="Кол_во_на_складе" ColumnName="Кол-во на складе" />
+          <ScalarProperty Name="Описание_товара" ColumnName="Описание товара" />
+          <ScalarProperty Name="Фото" ColumnName="Фото" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

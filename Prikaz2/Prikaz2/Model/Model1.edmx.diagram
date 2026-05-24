@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2a7e7ea6dace4881b916e7aff21581c8" Name="Diagram1">
+        <EntityTypeShape EntityType="MagazinObuviModel.Заказы" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MagazinObuviModel.Пользователи" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MagazinObuviModel.Пункты_выдачи" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MagazinObuviModel.Список_заказа" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MagazinObuviModel.Товары" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="MagazinObuviModel.FK_Заказы_Пользователи" ManuallyRouted="false" />
+        <AssociationConnector Association="MagazinObuviModel.FK_Заказы_Пункты_выдачи" ManuallyRouted="false" />
+        <AssociationConnector Association="MagazinObuviModel.FK_Список_заказа_Заказы" ManuallyRouted="false" />
+        <AssociationConnector Association="MagazinObuviModel.FK_Список_заказа_Товары" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

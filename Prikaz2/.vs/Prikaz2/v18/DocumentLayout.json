@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|c:\\users\\l\\desktop\\\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u043F\u0440\u0438\u043C\u0435\u0440\\prikaz2\\prikaz2\\window\\productsmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\productsmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\window\\productsic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\productsic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\window\\menuemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\menuemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\window\\menuemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\menuemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|c:\\users\\l\\desktop\\\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u043F\u0440\u0438\u043C\u0435\u0440\\prikaz2\\prikaz2\\window\\productsic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\productsic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\window\\productsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\window\\productsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\prikaz2\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB7BC8B-1CA6-4015-B758-27E71BEB4E0F}|Prikaz2\\Prikaz2.csproj|solutionrelative:prikaz2\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsManager.xaml.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\ProductsManager.xaml.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsManager.xaml.cs",
+              "RelativeToolTip": "Prikaz2\\Window\\ProductsManager.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:38:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsIC.xaml",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsIC.xaml",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\ProductsIC.xaml",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsIC.xaml",
+              "RelativeToolTip": "Prikaz2\\Window\\ProductsIC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T10:37:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Prikaz2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\MainWindow.xaml",
+              "RelativeToolTip": "Prikaz2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T10:37:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsIC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsIC.xaml.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\ProductsIC.xaml.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsIC.xaml.cs",
+              "RelativeToolTip": "Prikaz2\\Window\\ProductsIC.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:37:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuEmp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\MenuEmp.xaml.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\MenuEmp.xaml.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\MenuEmp.xaml.cs",
+              "RelativeToolTip": "Prikaz2\\Window\\MenuEmp.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:37:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsManager.xaml",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsManager.xaml",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\ProductsManager.xaml",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\ProductsManager.xaml",
+              "RelativeToolTip": "Prikaz2\\Window\\ProductsManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T10:37:27.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuEmp.xaml",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\MenuEmp.xaml",
+              "RelativeDocumentMoniker": "Prikaz2\\Window\\MenuEmp.xaml",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Window\\MenuEmp.xaml",
+              "RelativeToolTip": "Prikaz2\\Window\\MenuEmp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T10:37:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Classes\\DataBase.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\Classes\\DataBase.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Classes\\DataBase.cs",
+              "RelativeToolTip": "Prikaz2\\Classes\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T10:37:27.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Prikaz2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:37:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Prikaz2\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Classes\\User.cs",
+              "RelativeToolTip": "Prikaz2\\Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T10:37:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\L\\Desktop\\\u042D\u043A\u0437\u0430\u043C\u0435\u043D\\\u041F\u0440\u0438\u043C\u0435\u0440\\Prikaz2\\Prikaz2\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "Prikaz2\\Model\\Model1.edmx",
+              "ToolTip": "D:\\Prikaz\\Prikaz2\\Prikaz2\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-20T10:37:27.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
