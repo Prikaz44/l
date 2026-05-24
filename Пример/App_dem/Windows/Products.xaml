@@ -1,0 +1,147 @@
+﻿<Window x:Class="App_dem.Windows.Products"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App_dem.Windows"
+        mc:Ignorable="d"
+        Title="ООО «Обувь»" Height="450" Width="800" Icon="/Assets/Icon.JPG" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <TextBlock Text="Текущий пользователь: " VerticalAlignment="Center"/>
+            <TextBlock Text="" Name="txtCurrentUser" VerticalAlignment="Center"/>
+            <Button x:Name="btnExitUser" Content="Выйти" Margin="5" Click="btnExitUser_Click"/>
+        </StackPanel>
+        <TextBlock Text="Список товаров" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid x:Name="dgProducts" 
+                  Grid.Row="0"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  IsReadOnly="True"
+                  AlternatingRowBackground="LightGray"
+                  AlternationCount="2"
+                  RowHeaderWidth="30"
+                  GridLinesVisibility="Horizontal"
+                  VerticalScrollBarVisibility="Auto"
+                  HorizontalScrollBarVisibility="Auto"
+                  SelectionMode="Single"
+                  SelectionUnit="FullRow"
+                  HorizontalAlignment="Center"
+                  MinWidth="800"
+                  >
+
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Карточка товара" Width="Auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Image Source="{Binding FullImagePath}" 
+                                           Width="45" Height="45" 
+                                           VerticalAlignment="Center"/>
+
+                                    <Grid Grid.Column="1" Margin="5,0,0,0">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Категория_товара}" FontWeight="Bold"/>
+                                            <TextBlock Text=" | " FontWeight="Bold"/>
+                                            <TextBlock Text="{Binding Наименование_товара}" FontWeight="Bold"/>
+                                        </StackPanel>
+
+                                        <StackPanel Grid.Row="1" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Описание: "/>
+                                            <TextBlock Text="{Binding Описание_товара}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                        <StackPanel Grid.Row="2" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Производитель: "/>
+                                            <TextBlock Text="{Binding Производитель}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                        <StackPanel Grid.Row="3" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Поставщик: "/>
+                                            <TextBlock Text="{Binding Поставщик}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                        <StackPanel Grid.Row="4" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Цена: "/>
+                                            <TextBlock Text="{Binding Цена}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                        <StackPanel Grid.Row="5" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Единица_измерения: "/>
+                                            <TextBlock Text="{Binding Единица_измерения}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                        <StackPanel Grid.Row="6" Margin="0,2,0,0" Orientation="Horizontal">
+                                            <TextBlock Text="Количество на складе: "/>
+                                            <TextBlock Text="{Binding Кол_во_на_складе}" 
+                                               TextWrapping="Wrap"
+                                               Margin="10,0,5,0"/>
+                                        </StackPanel>
+                                    </Grid>
+                                </Grid>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Background" Value="#FFDDDDDD"/>
+                        <Setter Property="Height" Value="35"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Setter Property="Height" Value="130"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFE5E5E5"/>
+                                <Setter Property="BorderBrush" Value="Gray"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+
+            </DataGrid>
+
+        </Grid>
+            
+        
+    </Grid>
+</Window>

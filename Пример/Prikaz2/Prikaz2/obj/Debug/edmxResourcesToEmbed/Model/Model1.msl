@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище MagazinObuviModelContainer" CdmEntityContainer="MagazinObuviEntities">
+    <EntitySetMapping Name="Заказы">
+      <EntityTypeMapping TypeName="MagazinObuviModel.Заказы">
+        <MappingFragment StoreEntitySet="Заказы">
+          <ScalarProperty Name="Номер_заказа" ColumnName="Номер_заказа" />
+          <ScalarProperty Name="Дата_заказа" ColumnName="Дата_заказа" />
+          <ScalarProperty Name="Дата_доставки" ColumnName="Дата_доставки" />
+          <ScalarProperty Name="Адрес_пункта_выдачи" ColumnName="Адрес_пункта_выдачи" />
+          <ScalarProperty Name="ФИО_авторизированного_клиента" ColumnName="ФИО_авторизированного_клиента" />
+          <ScalarProperty Name="Код_пользователя" ColumnName="Код_пользователя" />
+          <ScalarProperty Name="Код_для_получения" ColumnName="Код_для_получения" />
+          <ScalarProperty Name="Статус_заказа" ColumnName="Статус_заказа" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пользователи">
+      <EntityTypeMapping TypeName="MagazinObuviModel.Пользователи">
+        <MappingFragment StoreEntitySet="Пользователи">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Роль_сотрудника" ColumnName="Роль_сотрудника" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Логин" ColumnName="Логин" />
+          <ScalarProperty Name="Пароль" ColumnName="Пароль" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пункты_выдачи">
+      <EntityTypeMapping TypeName="MagazinObuviModel.Пункты_выдачи">
+        <MappingFragment StoreEntitySet="Пункты_выдачи">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Список_заказа">
+      <EntityTypeMapping TypeName="MagazinObuviModel.Список_заказа">
+        <MappingFragment StoreEntitySet="Список_заказа">
+          <ScalarProperty Name="Код" ColumnName="Код" />
+          <ScalarProperty Name="Номер_заказа" ColumnName="Номер_заказа" />
+          <ScalarProperty Name="Артикул" ColumnName="Артикул" />
+          <ScalarProperty Name="Количество" ColumnName="Количество" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Товары">
+      <EntityTypeMapping TypeName="MagazinObuviModel.Товары">
+        <MappingFragment StoreEntitySet="Товары">
+          <ScalarProperty Name="Артикул" ColumnName="Артикул" />
+          <ScalarProperty Name="Наименование_товара" ColumnName="Наименование_товара" />
+          <ScalarProperty Name="Единица_измерения" ColumnName="Единица_измерения" />
+          <ScalarProperty Name="Цена" ColumnName="Цена" />
+          <ScalarProperty Name="Поставщик" ColumnName="Поставщик" />
+          <ScalarProperty Name="Производитель" ColumnName="Производитель" />
+          <ScalarProperty Name="Категория_товара" ColumnName="Категория_товара" />
+          <ScalarProperty Name="Действующая_скидка" ColumnName="Действующая_скидка" />
+          <ScalarProperty Name="Кол_во_на_складе" ColumnName="Кол_во_на_складе" />
+          <ScalarProperty Name="Описание_товара" ColumnName="Описание_товара" />
+          <ScalarProperty Name="Фото" ColumnName="Фото" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
